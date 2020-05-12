@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PCs>
+  <PC code="1001">
+    <cpu>AMD A10</cpu>
+    <freq>1.98</freq>
+    <ram>8</ram>
+    <hdd>2048</hdd>
+    <vm>512</vm>
+    <price>350</price>
+    <count>12</count>
+  </PC>
+  <PC code="1488">
+    <cpu>Intel Core i7</cpu>
+    <freq>2</freq>
+    <ram>6</ram>
+    <hdd>2048</hdd>
+    <vm>1024</vm>
+    <price>750</price>
+    <count>12</count>
+  </PC>
+  <PC code="1">
+    <cpu>1</cpu>
+    <freq>1</freq>
+    <ram>1</ram>
+    <hdd>1</hdd>
+    <vm>1</vm>
+    <price>1</price>
+    <count>1</count>
+  </PC>
+</PCs>

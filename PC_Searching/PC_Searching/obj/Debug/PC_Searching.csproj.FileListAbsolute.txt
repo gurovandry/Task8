@@ -1,0 +1,12 @@
+C:\Users\Андрей\source\repos\PC_Searching\PC_Searching\bin\Debug\PC_Searching.exe.config
+C:\Users\Андрей\source\repos\PC_Searching\PC_Searching\bin\Debug\PC_Searching.exe
+C:\Users\Андрей\source\repos\PC_Searching\PC_Searching\bin\Debug\PC_Searching.pdb
+C:\Users\Андрей\source\repos\PC_Searching\PC_Searching\obj\Debug\PC_Searching.Form1.resources
+C:\Users\Андрей\source\repos\PC_Searching\PC_Searching\obj\Debug\PC_Searching.Forms.Form2.resources
+C:\Users\Андрей\source\repos\PC_Searching\PC_Searching\obj\Debug\PC_Searching.Properties.Resources.resources
+C:\Users\Андрей\source\repos\PC_Searching\PC_Searching\obj\Debug\PC_Searching.csproj.GenerateResource.cache
+C:\Users\Андрей\source\repos\PC_Searching\PC_Searching\obj\Debug\PC_Searching.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\PC_Searching\PC_Searching\obj\Debug\PC_Searching.exe
+C:\Users\Андрей\source\repos\PC_Searching\PC_Searching\obj\Debug\PC_Searching.pdb
+C:\Users\Андрей\source\repos\PC_Searching\PC_Searching\obj\Debug\PC_Searching.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\PC_Searching\PC_Searching\obj\Debug\PC_Searching.Forms.Form3.resources

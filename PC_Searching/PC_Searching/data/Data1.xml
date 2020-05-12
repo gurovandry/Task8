@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PCs>
+  <PC code="001">
+    <cpu>AMD A10</cpu>
+    <freq>1.19</freq>
+    <ram>4</ram>
+    <hdd>1000</hdd>
+    <vm>5</vm>
+    <price>700</price>
+    <count>12</count>
+  </PC>
+</PCs>
